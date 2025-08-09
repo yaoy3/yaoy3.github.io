@@ -1,4 +1,4 @@
-/* --- 学术风格自定义 CSS --- */
+/* 学术风格自定义 CSS */
 
 body {
   font-family: "Noto Serif", "Georgia", serif;
@@ -47,7 +47,6 @@ code {
   font-family: monospace;
 }
 
-/* 页眉标题和描述的样式调整 */
 header.site-header {
   text-align: center;
   padding: 2rem 1rem 1rem 1rem;
@@ -60,5 +59,18 @@ header.site-header h1 {
   margin-bottom: 0.3rem;
 }
 
-header.sit
+header.site-header p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 0;
+}
+
+footer.site-footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 4rem;
+  padding-bottom: 2rem;
+}
+
 
