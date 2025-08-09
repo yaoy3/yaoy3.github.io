@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
-title: Yichen Yao
-description: 图书馆情报学研究 / Digital Archives / 信息素养
-logo: /assets/profile.jpg  # 如果你有头像，可以放到 assets 文件夹里
-show_downloads: false
+plugins:
+  - jekyll-feed
+sass:
+  style: compressed
 
+# 自定义 CSS 路径
+include:
+  - assets/custom.css
