@@ -3,7 +3,3 @@ plugins:
   - jekyll-feed
 sass:
   style: compressed
-
-# 自定义 CSS 路径
-include:
-  - assets/custom.css
