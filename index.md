@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/assets/custom.css" />
+
 # 你好，我是 Yichen Yao 👋
 
 欢迎来到我的个人主页！  
