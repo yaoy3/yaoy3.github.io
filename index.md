@@ -1,4 +1,23 @@
-# 欢迎来到我的主页
-你好！我是 XXX。  
-我的研究方向是 XXXX，  
-你可以通过 [GitHub](https://github.com/yichy4869) 找到我。
+# 你好，我是 Yichen Yao 👋
+
+欢迎来到我的个人主页！  
+我目前从事 **图书馆情报学** 研究，主要兴趣包括：
+- 数字档案与知识组织
+- 文献阅读与信息素养
+- 东亚社会文化史
+
+---
+
+## 🔍 研究方向
+- Documentational perspective on reading
+- Digital archives & metadata
+- Historical information systems
+
+---
+
+## 📬 联系方式
+- Email: your.email@example.com
+
+---
+
+© 2025 Yichen Yao
