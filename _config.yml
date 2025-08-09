@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
-sass:
-  style: compressed
+title: 你的名字
+description: 你的简介
+
