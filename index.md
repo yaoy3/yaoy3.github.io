@@ -1,2 +1,4 @@
 # 欢迎来到我的主页
-这里是我的个人介绍...
+你好！我是 XXX。  
+我的研究方向是 XXXX，  
+你可以通过 [GitHub](https://github.com/yichy4869) 找到我。
